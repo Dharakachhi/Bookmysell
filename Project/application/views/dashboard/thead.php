@@ -1,0 +1,1 @@
+<tr id="temp_" class="old_location" data-loc="" data-address=""><td class="panel-heading" colspan="7"><span class="category"></span><span class="locaton_type"></span></td></tr>

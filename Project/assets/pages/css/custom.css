@@ -1,0 +1,82 @@
+.fetured_image {
+	float: left;
+	width: 33%;
+	padding-top: 37px;
+}
+
+.gallery_image_show {
+	float: left;
+	width: 10%;
+	height: 100px
+}
+
+.more_image {
+	padding-top: 38px;
+}
+
+img.prev {
+	width: 130px;
+	height: 130px;
+	padding: 5px;
+}
+
+.single {
+	float: left;
+}
+
+input.removeImage1,
+input.removeImage12 {
+	position: relative;
+	float: right;
+	top: 5px;
+	left: -28px;
+}
+
+.error {
+	color: red;
+}
+
+.ajax-loader {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(ajaxloader.gif) center no-repeat #010101b3;
+}
+
+.dataTables_filter {
+	float: right;
+}
+
+.dataTables_empty {
+	text-align: center;
+}
+
+.edit_attribute {
+	margin-left: 15px !important;
+}
+
+
+/* Custom css*/
+
+.body-border {
+	border-bottom: 1px solid #5CD1DB;
+}
+
+
+/*.border-below{    border-bottom: 1px solid #5CD1DB;}*/
+
+.format { 
+    float: right;
+    padding-right: 27px !important;
+}
+
+/*input[type=file] {  cursor: pointer;  width: 180px;  height: 34px;  overflow: hidden;}input[type=file]:before {  width: 158px;  height: 32px;  font-size: 16px;  line-height: 32px;  content: 'Select your file';  display: inline-block;  background: white;  border: 1px solid #C2CAD8;  padding: 0 10px;  text-align: center;  font-family: Helvetica, Arial, sans-serif;}input[type=file]::-webkit-file-upload-button {  visibility: hidden;}*/
+
+.panel-body {
+	height: inherit;
+	padding: 0px;
+	}
+    
